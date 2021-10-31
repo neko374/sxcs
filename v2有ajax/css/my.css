@@ -1,0 +1,90 @@
+.he {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.he .head {
+    width: 240px;
+    height: 60px;
+    font-size: 18px;
+    color: gray;
+    float: left;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+}
+
+.he .head span {
+    float: left;
+    line-height: 30px;
+    margin-left: 20px;
+}
+
+.he svg {
+    float: right;
+    margin-right: 10px;
+    margin-top: .4rem;
+}
+
+.he .head img{
+    height: 100%;
+    background-color: rgba(245, 245, 245, 0.6);
+    border: 1px solid gray;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 100px;
+    float: left;
+    margin-left: 20px;
+}
+
+.box {
+    width: 90%;
+    margin: 0 auto;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 6px gray;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: space-between;
+       -moz-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    padding: .4rem;
+    margin-top: 20px;
+    position: relative;
+    top: 20px;
+    overflow: hidden;
+}
+
+.box .big {
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    margin: 7px;
+}
+
+.zi {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 16px;
+    position: relative;
+    top: 30px;
+}
+
+.zi a {
+    float: right;
+}
+
+.box .small {
+    float: left;
+    font-size: 12px;
+    margin: 7px;
+    text-align: center;
+    overflow: hidden;
+}

@@ -1,0 +1,95 @@
+.box {
+    margin: 0 auto;
+}
+
+.box .up {
+    width: 90%;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.box .up input {
+    width: 65%;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #fb435b;
+}
+
+.box .up button {
+    float: left;
+    width: 23%;
+    height: 32px;
+    margin-top: 20px;
+    color: #fb435b;
+    border: none;
+    background-color: rgba(255, 200, 200, 0.4);
+}
+
+.box .down {
+    margin-top: 20px;
+    margin: 0 auto;
+}
+
+.box .down .step {
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 5%;
+    float: left;
+    display: block;
+    line-height: 20px;
+}
+
+.box .down .step a {
+    color: orange;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.box .down .step .fabu {
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.box .down .step .head {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+    background-color: rgba(245, 245, 245, 0.6);
+    border-radius: 50px;
+    border: 1px solid gray;
+    overflow: hidden;
+}
+
+.box .down .step .head img {
+    width: 80px;
+    height: 80px;
+}
+
+.box .down .step .x {
+    float: right;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-right: 6px;
+    margin-top: 4px;
+    cursor: pointer;
+    color: black;
+}
+
+.fabu {
+    font-size: 18px;
+    color: black;
+}
+
+.down p {
+    font-size: 16px;
+    cursor: pointer;
+    float: right;
+    margin-right: 7%;
+}

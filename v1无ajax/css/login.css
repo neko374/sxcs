@@ -1,0 +1,81 @@
+span {
+    font-size: 20px;
+    color: green;
+    float: right;
+    margin-right: .1rem;
+    display: none;
+}
+
+.header a {
+    color: black;
+    font-size: 30px;
+    margin-left: .5rem;
+}
+
+.phone {
+    width: 6rem;
+    height: .8rem;
+    border: .02rem solid #ff3c57;
+    border-radius: .466667rem;
+    margin: 0 auto;
+    position: relative;
+    top: 2.666667rem;
+    margin-top: .3rem;
+    line-height: 。7rem;
+}
+.phone input {
+    position: absolute;
+    left: 10%;
+    width: 4rem;
+    height: .7rem;
+    line-height: .7rem;
+    outline: none;
+    border: none;
+}
+.phone svg {
+    margin-right: -0.266667rem;
+    margin-left: .133333rem;
+    margin-top: .14rem;
+    position: absolute;
+}
+button {
+    width: 6rem;
+    height: .8rem;
+    border: .02rem solid #ff3c57;
+    border-radius: .466667rem;
+    background-color: #ff3c57;
+    display: block;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 2.666667rem;
+    margin-top: .3rem;
+}
+
+.forget {
+    width: 6rem;
+    margin: 0 auto;
+    position: relative;
+    top: 2.666667rem;
+    margin-top: .2rem;
+    margin-bottom: 1rem;
+}
+
+.forget a {
+    float: left;
+    font-size: 14px;
+}
+
+.three {
+    width: 6rem;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+    top: 2.666667rem;
+}
+
+.three svg {
+    margin: .3rem;
+}

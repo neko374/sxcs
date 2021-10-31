@@ -1,0 +1,64 @@
+body {
+    padding: 5%;
+}
+
+.header {
+    font-size: 16px;
+}
+
+.header svg {
+    margin-top: 6px
+}
+
+.title {
+    height: 60px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: scroll;
+    background-color: white;
+}
+
+.title .top {
+    height: 100%;
+    margin-right: 20px;
+    font-size: 18px;
+    text-align: center;
+    float: left;
+}
+
+.title .top img {
+    height: 100%;
+}
+
+#one,#two,#three,#four,#five,#six {
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    margin-top: 2rem;
+}
+
+.pu {
+    height: 140px;
+    width: 100%;
+    border-bottom: 1px solid gray;
+    line-height: 20px;
+}
+
+.pu img {
+    height: 100%;
+    float: left;
+}
+
+.nam {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.dis {
+    font-size: 14px;
+}
+
+.price {
+    font-size: 16px;
+    color: #fb435b;
+}

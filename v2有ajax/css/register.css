@@ -1,0 +1,88 @@
+span {
+    font-size: 20px;
+    color: green;
+    float: right;
+    margin-right: .1rem;
+    display: none;
+}
+
+.phone {
+    width: 6rem;
+    height: .8rem;
+    border: .02rem solid #ff3c57;
+    border-radius: .466667rem;
+    margin: 0 auto;
+    position: relative;
+    top: 2.666667rem;
+    margin-top: .3rem;
+    line-height: 。7rem;
+}
+.phone input {
+    position: absolute;
+    left: 10%;
+    width: 4rem;
+    height: .7rem;
+    line-height: .7rem;
+    outline: none;
+    border: none;
+}
+.phone svg {
+    margin-right: -0.266667rem;
+    margin-left: .133333rem;
+    margin-top: .14rem;
+    position: absolute;
+}
+
+.zhuce {
+    width: 6rem;
+    height: .8rem;
+    border: .02rem solid #ff3c57;
+    border-radius: .466667rem;
+    background-color: #ff3c57;
+    display: block;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 2.666667rem;
+    margin-top: .3rem;
+}
+
+.ma {
+    width: 6rem;
+    height: .8rem;
+    border: .02rem solid #ff3c57;
+    border-radius: .466667rem;
+    margin: 0 auto;
+    position: relative;
+    top: 2.666667rem;
+    margin-top: .3rem;
+    line-height: 。7rem;
+}
+.ma input {
+    position: absolute;
+    left: 10%;
+    width: 2.6rem;
+    height: .7rem;
+    line-height: .7rem;
+    outline: none;
+    border: none;
+}
+.ma svg {
+    margin-right: -0.266667rem;
+    margin-left: .133333rem;
+    margin-top: .14rem;
+    position: absolute;
+}
+.ma button {
+    width: 2.1rem;
+    height: .7rem;
+    position: absolute;
+    right: .1rem;
+    font-size: .36rem;
+    background: #ff3c57;
+    border: none;
+    border-radius: .466667rem;
+    margin-top: .05rem;
+    color: white;
+}

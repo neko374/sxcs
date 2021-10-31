@@ -1,0 +1,97 @@
+.zi {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 12px;
+}
+
+.zi a {
+    float: right;
+}
+
+.box {
+    width: 80%;
+    margin: 0 auto;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 6px gray;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+    padding: .4rem;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.box img {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+}
+
+.box p {
+    float: left;
+    font-size: 16px;
+}
+
+.box span {
+    color: gray;
+    font-size: 12px;
+    float: left;
+    margin-top: -20px;
+}
+
+.box .price {
+    float: right;
+    color: #fb435b;
+}
+
+.box button {
+    float: right;
+    width: 17px;
+    height: 17px;
+    text-align: center;
+    line-height: 14px;
+    border-radius: 20px;
+    border: none;
+}
+
+.box input {
+    width: 17px;
+    height: 17px;
+    float: right;
+    line-height: 14px;
+    text-align: center;
+    outline: none;
+    border: none;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.bot {
+    width: 80%;
+    font-size: 16px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+.bot div {
+    width: 100px;
+    height: 30px;
+    background: #fb435b;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    border-radius: 18px;
+    float: right;
+}
+
+.x {
+    float: right;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-right: 6px;
+    cursor: pointer;
+    color: #fb435b;
+}
